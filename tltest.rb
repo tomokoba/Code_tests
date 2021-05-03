@@ -14,4 +14,4 @@ while i <= 100 do
 	sum += i ** 4
 	i += 1
 end
-printf( "1から10までの合計値は%dです\n" , sum )
+printf( "1から100までの合計値は%dです\n" , sum )
